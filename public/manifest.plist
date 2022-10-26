@@ -19,11 +19,11 @@
                <key>bundle-identifier</key>
                <string>com.ring</string>
                <key>bundle-version</key>
-               <string>5.55.0 (5.55.0.0-d4846274d19)</string>
+               <string>5.55.0.17-1</string>
                <key>kind</key>
                <string>software</string>
                <key>title</key>
-               <string>‎Ring - Always Home</string>
+               <string>Ring - Always Home</string>
            </dict>
        </dict>
    </array>
